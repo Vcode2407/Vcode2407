@@ -1,6 +1,6 @@
 # Vinay Kumar
 
-Backend software engineer and M.Tech Computer Science student at SRM University-AP, graduating in June 2028. I work remotely from India as a contract software engineer at micro1, building and debugging Java/Spring Boot APIs, React workflows, and PostgreSQL-backed features.
+Application and backend engineer and M.Tech Computer Science student at SRM University-AP, graduating in June 2028. At micro1, I build and debug Java/Spring Boot APIs, React workflows, and PostgreSQL-backed features. At Crossing Hurdles, I design deterministic Go and Rust coding benchmarks with Dockerized environments and isolated tests.
 
 I am available for full-time Summer 2027 software engineering and application engineering internships in India.
 
@@ -14,8 +14,7 @@ I am available for full-time Summer 2027 software engineering and application en
 ## Selected work
 
 - [Distributed Job Scheduler](https://github.com/Vcode2407/distributed-job-scheduler) — Java/Spring Boot scheduler with worker leasing, retries, dead-letter handling, Testcontainers, and a recorded 10,000-job test across 100 simulated workers with zero failures.
-- [Intelligent Candidate Ranking](https://github.com/Vcode2407/redrob-intelligent-candidate-ranking) — deterministic CPU-only Python pipeline that ranked 100,000 profiles in 73.32 seconds using streaming input, bounded top-K selection, validation, and evidence-based scoring.
-- [CloudDrive](https://github.com/Vcode2407/Cloud-Drive) — authenticated Spring Boot REST APIs with PostgreSQL, Redis, AWS S3, unit tests, and a PostgreSQL integration test.
+- [CloudDrive](https://github.com/Vcode2407/Cloud-Drive) — authenticated Spring Boot REST APIs with PostgreSQL, Redis, S3-compatible storage, Elasticsearch, automated tests, and validated end-to-end authentication, versioning, search, sharing, and download flows.
 
 ## Open source
 
@@ -24,7 +23,7 @@ I am available for full-time Summer 2027 software engineering and application en
 
 ## Competitive programming
 
-- Codeforces Expert, rating 1622
-- 318 LeetCode problems solved
+- [Codeforces Expert, rating 1622](https://codeforces.com/profile/vickiease)
+- [318 LeetCode problems solved](https://leetcode.com/u/vkodes)
 
 [Portfolio](https://portfolio-sandy-mu-fn7vwjg3pe.vercel.app) · [LinkedIn](https://www.linkedin.com/in/themanvk) · [Email](mailto:vkslog69@gmail.com)
