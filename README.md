@@ -2,7 +2,7 @@
 
 Application and backend engineer and M.Tech Computer Science student at SRM University-AP, graduating in June 2028. At micro1, I build and debug Java/Spring Boot APIs, React workflows, and PostgreSQL-backed features. At Crossing Hurdles, I design deterministic Go and Rust coding benchmarks with Dockerized environments and isolated tests.
 
-I am available for full-time Summer 2027 software engineering and application engineering internships in India.
+I am available for full-time Summer 2027 software engineering and application engineering internships in India, and I am open to international relocation where visa sponsorship is available.
 
 ## What I work with
 
